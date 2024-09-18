@@ -14,4 +14,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="346dp"
+        android:layout_height="171dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="452dp"
+        android:text="The Dashboard is in development at the moment!!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+    
 </androidx.constraintlayout.widget.ConstraintLayout>
