@@ -1,5 +1,9 @@
 # MyMobileApp
 
+Please use the folowing credentials for successful login:
+username: Aleksandar
+password: s8090291
+
 https://github.com/Strelok1515/MyMobileApp.git
 
 
